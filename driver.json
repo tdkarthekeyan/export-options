@@ -1,0 +1,64 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name": "abhi",
+      "phone": "1234567890",
+      "availability": "No"
+    },
+    {
+      "id": 2,
+      "name": "ajay",
+      "phone": "1234567890",
+      "availability": "No"
+    },
+    {
+      "id": 3,
+      "name": "bala",
+      "phone": "1234567890",
+      "availability": "No"
+    },
+    {
+      "id": 4,
+      "name": "mani",
+      "phone": "1234567890",
+      "availability": "yes"
+    },
+    {
+      "id": 5,
+      "name": "mark",
+      "phone": "1234567890",
+      "availability": "yes"
+    },
+    {
+      "id": 6,
+      "name": "raja",
+      "phone": "1234567890",
+      "availability": "yes"
+    },
+    {
+      "id": 7,
+      "name": "samy",
+      "phone": "1234567890",
+      "availability": "No"
+    },
+    {
+      "id": 8,
+      "name": "viji",
+      "phone": "1234567890",
+      "availability": "yes"
+    },
+    {
+      "id": 9,
+      "name": "anil",
+      "phone": "1234567890",
+      "availability": "No"
+    },
+    {
+      "id": 10,
+      "name": "dany",
+      "phone": "1234567890",
+      "availability": "yes"
+    }
+  ]
+}
